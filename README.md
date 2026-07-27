@@ -22,11 +22,11 @@ Download the latest SmartTasks APK directly from the website.
 
 included in the website landing page
 
-| Home | Tasks |
+| Splash Screen | Home |
 |------|------|
 | ![](screenshot1.png) | ![](screenshot2.png) |
 
-| Calendar | Statistics | Settings |
+| Tasks | Reminder | Task-Status |
 |----------|------------|----------|
 | ![](screenshot3.png) | ![](screenshot4.png) | ![](screenshot5.png) |
 
